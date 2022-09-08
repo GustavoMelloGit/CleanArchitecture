@@ -8,11 +8,6 @@
     ],
     "allowJs": true,
     "skipLibCheck": true,
-    "baseUrl": "./src",
-    "rootDir": "./src",
-    "paths": {
-      "@/*": ["*"]
-    },
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
     "strict": true,
